@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "GAME OVER",
+  "base_artist": "SIRUP",
+  "createdAt": "2026-03-02T11:01:46.806353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "彭坦",
+      "has_synced": false,
+      "path": "select/01_Game_Over_彭坦.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Game Over (Flip)",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/02_Game_Over_(Flip)_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scatman (Game Over Jazz)",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/03_Scatman_(Game_Over_Jazz)_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/04_Game_Over_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Modestep & Rude Kid feat. Big Narstie, Dialect, Discardia, Flowdan, Frisco & Lay-Z",
+      "has_synced": true,
+      "path": "select/05_Game_Over_Modestep_&_Rude_Kid_feat._Big_Narstie,_Dialect,_Discardia,_Flowdan,_Frisco_&_Lay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Modestep",
+      "has_synced": true,
+      "path": "select/06_Game_Over_Modestep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Alex feat. Rachel Mcalpine",
+      "has_synced": true,
+      "path": "select/07_Game_Over_Alex_feat._Rachel_Mcalpine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "ALEX",
+      "has_synced": true,
+      "path": "select/08_Game_Over_ALEX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Doomtree",
+      "has_synced": false,
+      "path": "select/09_Game_Over_Doomtree.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/10_Game_Over_Anvil.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/11_Game_Over_Ministry.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Computer-Reign (Game Over)",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/12_Computer-Reign_(Game_Over)_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/13_Game_Over_Machine_Head.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Taproot",
+      "has_synced": true,
+      "path": "select/14_Game_Over_Taproot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Destiny's Child",
+      "has_synced": false,
+      "path": "select/15_Game_Over_Destiny's_Child.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Game Over feat. Big Narstie, Dialect, Discardia, Flowdan, Frisco & Lay-Z",
+      "artist": "Modestep & Rude Kid",
+      "has_synced": true,
+      "path": "select/16_Game_Over_feat._Big_Narstie,_Dialect,_Discardia,_Flowdan,_Frisco_&_Lay-Z_Modestep_&_Rude_Kid.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Game over (Daniel's Scene)",
+      "artist": "Keep Shelly In Athens",
+      "has_synced": false,
+      "path": "select/17_Game_over_(Daniel's_Scene)_Keep_Shelly_In_Athens.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Game Over (Mixed)",
+      "artist": "Bobby Caldwell feat. Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/18_Game_Over_(Mixed)_Bobby_Caldwell_feat._Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/19_Game_Over_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAME OVER",
+      "artist": "SIRUP",
+      "has_synced": false,
+      "path": "select/pl_01_GAME_OVER_SIRUP.txt"
+    }
+  ]
+}
